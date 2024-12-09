@@ -48,7 +48,7 @@ a {
 .header__nav {
   display: flex;
   justify-content: space-between;
-  background-color: #fff0ed;
+  background-color: #49564c;
   padding: 20px;
   gap: 20px;
 }
