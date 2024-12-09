@@ -73,7 +73,7 @@
   width: 20rem;
   border-radius: 0.3rem 0.3rem 0.3rem 0.3rem;
   box-shadow: 0 0.3125rem 0.5625rem -0.0625rem rgba(0, 0, 0, 0.25);
-  background-color: #7a7c69;
+  background-color: #878976;
   color: #e0dfdb;
 }
 
@@ -92,7 +92,6 @@
 
 .main__product__title {
   font-size: 1.7rem;
-  text-shadow: 0.5px 0.5px 1px rgba(0, 0, 0, 0.2);
   width: 90%;
   padding-bottom: 1rem;
   color: #2e2e2a;
@@ -202,34 +201,4 @@
 
 .button--third {
   color: white;
-}
-
-/* Footer */
-.footer {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 100%;
-  gap: 15%;
-  padding: 3.4375rem;
-  background-color: #e0dfdb;
-}
-
-.footer__heading {
-  font-size: 1.625rem;
-  padding-bottom: 0.875rem;
-}
-
-.footer__text {
-  font-size: 1rem;
-}
-
-.footer__social-container {
-  display: flex;
-  flex-direction: row;
-  gap: 0.375rem;
-}
-
-.footer__social-icon {
-  width: 2.5rem;
 }

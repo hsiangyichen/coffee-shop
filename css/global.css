@@ -95,3 +95,33 @@ a {
 .header__nav-link:hover {
   background-color: rgba(34, 32, 29, 0.4);
 }
+
+/* Footer */
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  gap: 15%;
+  padding: 3.4375rem;
+  background-color: #e0dfdb;
+}
+
+.footer__heading {
+  font-size: 1.625rem;
+  padding-bottom: 0.875rem;
+}
+
+.footer__text {
+  font-size: 1rem;
+}
+
+.footer__social-container {
+  display: flex;
+  flex-direction: row;
+  gap: 0.375rem;
+}
+
+.footer__social-icon {
+  width: 2.5rem;
+}
