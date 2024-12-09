@@ -1,5 +1,7 @@
 # Serenity Massage Therapy Website
 
+![Serenity Massage Logo](assets/images/website.png)
+
 Welcome to the Serenity Massage Therapy Hub! This project is a modern and user-friendly website designed for a massage therapy business, showcasing services, enabling bookings, and providing an exceptional online presence.
 
 ## Table of Contents
